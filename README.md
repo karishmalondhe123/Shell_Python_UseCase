@@ -20,13 +20,13 @@ Name: Use_case/Version/
 	This folder contains version.txt file with a version number.
 	
 Usage:
-Execute the script using bbelow steps/commands:
+Execute the script using below steps/commands:
 
 	1. git clone https://github.com/karishmalondhe123/Shell_Python_UseCase.git
 	2. Change directory to Use_case/
 		cd Use_case/
 	3. Execute the python utility:
-		python.exe auto_execute_shell_ver2.py -s Shell/ -v Version/
+		python.exe auto_execute_shell_ver2.7.py -s Shell/ -v Version/
 		where,
 			Shell/ and Version/ are the folders.
 			
